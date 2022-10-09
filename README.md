@@ -355,61 +355,7 @@ document.write(`هاري اين اياله هاري يڠ برتاريخ ${day}-$
             <tr> 
 
                 <td>٢٩<div>25/9</div></td> 
-                <td>٣٠<div>26/9</div></td> 
-                <td>سلامت <div>ke-65</div><div>tahun</div></td> 
-                <td>مڽمبوت <div>Malaysia</div><div>yang</div></td> 
-                <td>هاري كبڠساءن <div>Hari </div><div>Keban</div><div>gsaan</div></td> 
-                <td class="Islam">مليسيا يڠ <div>menya</div><div>mbut</div></td> 
-                <td>ک-٦٥ <div>تاهون</div><div>Selamat</div></td> 
-            </tr> 
-
-        </tbody> 
-
-    </table>
-   🟦 چوتي سكوله برمولا ٧ هيڠݢ ١٥ صفر ١٤٤٤ه‍
-     <h2 align="center" class="Font" style="color: orange;"> 
-
-        ربع الأول ١٤٤٤ه (Rabiul Awwal 1444H) | September  →  Oktober 2022
-
-    </h2> 
-
-    <br /> 
-
-      
-
-    <table bgcolor="lightgrey" align="center" 
-
-        cellspacing="8" cellpadding="5">  
-
-        <caption align="top"> 
-        </caption> 
-
-        <thead> 
-
-            <tr>
-
-                <th>احد</th> 
-                <th>اثنين</th> 
-                <th>ثلاث</th> 
-                <th>رابو</th> 
-                <th>خميس</th> 
-                <th class="Islam">جمعة</th> 
-                <th>سبتو</th> 
-
-            </tr> 
-
-        </thead> 
-
-          
-
-        <tbody> 
-
-            <tr> 
-
-                <td>سلامت <div>menya</div><div>mbut</div></td> 
-                <td>ممبوت <div>Selamat</div></td> 
-                <td>١<div>27/9</div></td> 
-                <td>٢<div>28/9</div></td> 
+                <td>٣٠<div>26/9</div></td>  
                 <td>٣<div>29/9</div></td> 
                 <td class="Islam">٤<div>30/9</div></td> 
                 <td>٥<div>1/10</div></td> 
@@ -495,108 +441,6 @@ document.write(`هاري اين اياله هاري يڠ برتاريخ ${day}-$
                 <th class="Islam">جمعة</th> 
                 <th>سبتو</th> 
 
-            </tr> 
-
-        </thead> 
-
-          
-
-        <tbody> 
-
-            <tr> 
-
-                <td><div></div></td> 
-                <td><div></div></td> 
-                <td><div></div></td> 
-                <td>١<div>26/10</div></td> 
-                <td>٢<div>27/10</div></td> 
-                <td class="Islam">٣<div>28/10</div></td> 
-                <td>٤<div>29/10</div></td> 
-
-            </tr> 
-
-            <tr></tr> 
-
-            <tr> 
-
-                <td>٥<div>30/10</div></td> 
-                <td>٦<div>31/10</div></td> 
-                <td>٧<div>1/11</div></td> 
-                <td>٨<div>2/11</div></td> 
-                <td>٩<div>3/11</div></td> 
-                <td class="Islam">١٠<div>4/11</div></td> 
-                <td>١١<div>5/11</div></td> 
-
-            </tr> 
-
-            <tr> 
-
-                <td>١٢<div>6/11</div></td> 
-                <td>١٣<div>7/11</div></td> 
-                <td>١٤<div>8/11</div></td> 
-                <td>١٥<div>9/11</div></td> 
-                <td>١٦<div>10/11</div></td> 
-                <td class="Islam">١٧<div>11/11</div></td> 
-                <td>١٨<div>12/11</div></td> 
-            </tr> 
-
-            <tr> 
-
-                <td>١٩<div>13/11</div></td> 
-                <td>٢٠<div>14/11</div></td> 
-                <td>٢١<div>15/11</div></td> 
-                <td>٢٢<div>16/11</div></td> 
-                <td>٢٣<div>17/11</div></td> 
-                <td class="Islam">٢٤<div>18/11</div></td> 
-                <td>٢٥<div>19/11</div></td> 
-            </tr> 
-
-            <tr> 
-
-                <td>٢٦<div>20/11</div></td> 
-                <td>٢٧<div>21/11</div></td> 
-                <td>٢٨<div>22/11</div></td> 
-                <td>٢٩<div>23/11</div></td> 
-                <td>٣٠<div>24/11</div></td> 
-                <td class="Islam">چاتتن <div>   </div></td> 
-                <td>✍️←<div>  Catatan </div></td> 
-            </tr> 
-
-        </tbody> 
-
-    </table>
-       <h2 align="center" class="Font" style="color: orange;"> 
-
-        جمد الأول ١٤٤٤ه‍ (Jamadil Awwal 1444H) | November  →  Disember 2022
-
-    </h2> 
-
-    <br /> 
-
-      
-
-    <table bgcolor="lightgrey" align="center" 
-
-        cellspacing="11" cellpadding="7">  
-
-        <caption align="top"> 
-        </caption> 
-
-        <thead> 
-
-            <tr> 
-
-                <th>احد</th> 
-                <th>اثنين</th> 
-                <th>ثلاث</th> 
-                <th>رابو</th> 
-                <th>خميس</th> 
-                <th class="Islam">جمعة</th> 
-                <th>سبتو</th> 
-
-            </tr> 
-
-        </thead> 
 
           
 
