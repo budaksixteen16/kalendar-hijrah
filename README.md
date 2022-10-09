@@ -386,7 +386,7 @@ document.write(`هاري اين اياله هاري يڠ برتاريخ ${day}-$
 
         <thead> 
 
-            <tr> 
+            <tr>
 
                 <th>احد</th> 
                 <th>اثنين</th> 
